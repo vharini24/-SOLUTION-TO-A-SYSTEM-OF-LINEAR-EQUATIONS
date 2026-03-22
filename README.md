@@ -29,6 +29,8 @@ print(C)
 
 ## Output:
 
+<img width="533" height="187" alt="image" src="https://github.com/user-attachments/assets/7ca3daef-0602-410f-8a31-7d96cf425168" />
+
 
 
 ## Result: 
